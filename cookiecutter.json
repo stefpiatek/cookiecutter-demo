@@ -1,5 +1,6 @@
 {
-  "project_name": "cake_project",
+  "project_name": "better cake project",
+  "project_slug": "{{ cookiecutter.project_name.lower().strip().replace(' ', '-') }}",
   "full_name": "Stefan Piatek",
-  "cake": "carrot"
+  "cake": ["carrot", "chocolate", "victoria sponge", "coffee and walnut"]
 }

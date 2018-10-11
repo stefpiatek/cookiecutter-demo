@@ -1,4 +1,4 @@
-# Project: {{cookiecutter.project_name}}
+# Project: {{cookiecutter.project_slug}}
 
 This project was created by {{cookiecutter.full_name}}.
 
