@@ -1,8 +1,8 @@
 {
   "project_name": "better cake project",
   "project_slug": "{{ cookiecutter.project_name.lower().strip().replace(' ', '-') }}",
-  "full_name": "Stefan Piatek",
+  "full_name": "required",
   "date_created": "{% now 'local' %}",
   "cake": ["carrot", "chocolate", "victoria sponge", "coffee and walnut"],
-  "_extensions": ["jinja2_time.TimeExtension"],
+  "_extensions": ["jinja2_time.TimeExtension"]
 }
